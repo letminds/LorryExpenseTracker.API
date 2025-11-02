@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xL6IcpjkDBIXNo2JajoKaTU12Yuf0yUtomZsgb17PoE=",
+  "Source": "LorryExpenseTracker.API",
+  "BasePath": "_content/LorryExpenseTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

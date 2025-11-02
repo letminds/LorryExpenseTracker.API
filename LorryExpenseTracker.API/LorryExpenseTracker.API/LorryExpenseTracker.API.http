@@ -1,0 +1,6 @@
+@LorryExpenseTracker.API_HostAddress = http://localhost:5075
+
+GET {{LorryExpenseTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
