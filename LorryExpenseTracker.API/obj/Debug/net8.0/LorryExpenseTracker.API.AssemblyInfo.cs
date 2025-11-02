@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LorryExpenseTracker.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc1a745cffe8c898378c6e8fb26c2cb249da012")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df72e0ac8c9d85d48a397acbfb3aa53e77247687")]
 [assembly: System.Reflection.AssemblyProductAttribute("LorryExpenseTracker.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LorryExpenseTracker.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
